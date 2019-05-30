@@ -1,0 +1,11 @@
+﻿  HuffmanEncoding.cpp
+c:\users\duke\documents\visual studio 2015\projects\huffmanencoding\huffmanencoding\pqheap.hpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\duke\documents\visual studio 2015\projects\huffmanencoding\huffmanencoding\pqheap.hpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\duke\documents\visual studio 2015\projects\huffmanencoding\huffmanencoding\pqheap.hpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\duke\documents\visual studio 2015\projects\huffmanencoding\huffmanencoding\huffman.hpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\duke\documents\visual studio 2015\projects\huffmanencoding\huffmanencoding\huffman.hpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\duke\documents\visual studio 2015\projects\huffmanencoding\huffmanencoding\huffman.hpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\duke\documents\visual studio 2015\projects\huffmanencoding\huffmanencoding\huffman.hpp(167): warning C4715: 'Huffman::lookupValue': not all control paths return a value
+c:\users\duke\documents\visual studio 2015\projects\huffmanencoding\huffmanencoding\pqheapobject.hpp(48): warning C4715: 'PQHeapObject::generateEncodeValue': not all control paths return a value
+  HuffmanEncoding.vcxproj -> C:\Users\Duke\Documents\Visual Studio 2015\Projects\HuffmanEncoding\Debug\HuffmanEncoding.exe
+  HuffmanEncoding.vcxproj -> C:\Users\Duke\Documents\Visual Studio 2015\Projects\HuffmanEncoding\Debug\HuffmanEncoding.pdb (Full PDB)
